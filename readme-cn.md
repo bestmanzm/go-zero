@@ -270,6 +270,6 @@ go-zero 收录在 [CNCF Cloud Native 云原生技术全景图](https://landscape
 
 如果您发现 ***bug*** 请及时提 ***issue***，我们会尽快确认并修改。
 
-加群之前有劳点一下 ***star***，一个小小的 ***star*** 是作者们回答海量问题的动力！🤝
+加群之前有劳点一下 ***star***，一个小小的 ***star*** 是作者们回答海量问题的动力！🤝 
 
 <img src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/wechat.jpg" alt="wechat" width="300" />
